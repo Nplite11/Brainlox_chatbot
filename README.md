@@ -8,6 +8,7 @@
 
 The application follows these steps to provide responses to your questions:
 
+<<<<<<< HEAD
 1. PDF Loading or Url Loading: The app reads multiple PDF documents and extracts their text content.
 
 2. Text Chunking: The extracted text is divided into smaller chunks that can be processed effectively.
